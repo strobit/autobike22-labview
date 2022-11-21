@@ -1,9 +1,9 @@
 # Libraries
 *.lvlibp
+*.lvlib
 *.llb
 
-# Shared objects (inc. Windows DLLs)
-*.dll
+# Shared objects
 *.so
 *.so.*
 *.dylib
