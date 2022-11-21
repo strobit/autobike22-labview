@@ -1,5 +1,6 @@
 # Libraries
 *.lvlibp
+*.lvlib
 *.llb
 
 # Shared objects
