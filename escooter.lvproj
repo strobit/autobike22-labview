@@ -319,7 +319,7 @@ DirectoryIndex index.htm
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Tag-bool.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-bool.lvlib"/>
-			<Item Name="vescEncoder.dll" Type="Document" URL="../../vescEncoder_dll/Debug/vescEncoder.dll"/>
+			<Item Name="vesc.dll" Type="Document" URL="../../../source/repos/vesc/Debug/vesc.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
