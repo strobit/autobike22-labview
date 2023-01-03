@@ -110,10 +110,10 @@ DirectoryIndex index.htm
 		<Item Name="bin" Type="Folder" URL="../bin">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="TempEncoder.vi" Type="VI" URL="../../../Downloads/TempEncoder.vi"/>
-		<Item Name="TempIMU.vi" Type="VI" URL="../../../Downloads/TempIMU.vi"/>
-		<Item Name="TempSteer&amp;Encoder.vi" Type="VI" URL="../../../Downloads/TempSteer&amp;Encoder.vi"/>
-		<Item Name="TempSteer.vi" Type="VI" URL="../../../Downloads/TempSteer.vi"/>
+		<Item Name="TempEncoder.vi" Type="VI" URL="../TempEncoder.vi"/>
+		<Item Name="TempIMU.vi" Type="VI" URL="../TempIMU.vi"/>
+		<Item Name="TempSteer&amp;Encoder.vi" Type="VI" URL="../TempSteer&amp;Encoder.vi"/>
+		<Item Name="TempSteer.vi" Type="VI" URL="../TempSteer.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AI IRQ FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/IRQ/typedefs/AI IRQ FPGA Reference.ctl"/>
