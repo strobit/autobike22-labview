@@ -4,7 +4,6 @@
 *.llb
 
 # Shared objects
-*.so
 *.so.*
 *.dylib
 
