@@ -5,7 +5,7 @@ Explains the code functionality and usage.
 
 ##Contents 
 
-- GUI?
+- GUI
 - PID
 
 # Files
@@ -14,6 +14,7 @@ Explains the code functionality and usage.
 
 "dll" folder:
 - vesc.dll
+- libvesc.so
 
 "Bin" folder:
 - ForwardMotor.vi
