@@ -7,12 +7,13 @@ Explains the code functionality and usage.
 
 - GUI
 - PID
+- Library path
 
 # Files
 
 - escooter.lvproj
 
-"dll" folder:
+"dll_so" folder:
 - vesc.dll
 - libvesc.so
 
@@ -41,3 +42,8 @@ Explains the code functionality and usage.
 # PID.vi
 
 Using previous iteration PIDs. One using two (inner) PID, and one using a single PID. Outputs PWM, indicating speed of steering motor.
+
+# .so library path
+
+The path to the .so file needs to be changed to your path (i.e. to the dll_so folder) inside the Call Library Function of VescSetRpm.vi. The function used is int32_t setRpm(uint8_t *array, int32_t rpm);
+
